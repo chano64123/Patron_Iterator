@@ -1,0 +1,7 @@
+C:\Users\Wizzy\Desktop\UPT 2020-I\Calidad y pruebas de software\Patrones de diseño\Iterator\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Wizzy\Desktop\UPT 2020-I\Calidad y pruebas de software\Patrones de diseño\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Users\Wizzy\Desktop\UPT 2020-I\Calidad y pruebas de software\Patrones de diseño\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Wizzy\Desktop\UPT 2020-I\Calidad y pruebas de software\Patrones de diseño\Iterator\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+C:\Users\Wizzy\Desktop\UPT 2020-I\Calidad y pruebas de software\Patrones de diseño\Iterator\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Wizzy\Desktop\UPT 2020-I\Calidad y pruebas de software\Patrones de diseño\Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Users\Wizzy\Desktop\UPT 2020-I\Calidad y pruebas de software\Patrones de diseño\Iterator\Iterator\obj\Debug\Iterator.pdb
